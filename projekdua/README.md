@@ -1,0 +1,3 @@
+Website ini mengambil API dari restcountries. dari API tersebut, melalui website ini menampilkan segala negara yang terdapat dalam API. website terdiri dari main page, about page, dan country name page. Data yang diambil dan ditampilkan dalam main page hanya bendera negara, nama negara, dan ibukota  negara. Di dalam country name page, data yang ditampilkan ada bendera negara, nama negara, nama resmi negara, jumlah populasi negara, dan zona waktu negara tersebut.
+Di bagian main page, user dapat mencari negara melalui nama dan juga dapat menampilkan negara sesuai dengan benua yang dipilih
+About page berisi negara fiksi yang dibuat oleh creator 
